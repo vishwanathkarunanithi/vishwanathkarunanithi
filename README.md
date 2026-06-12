@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&colorStart=000000&colorEnd=111111&height=250&section=header&text=Vishwanath%20Karunanithi&fontSize=60&fontColor=D4AF37&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Vishwanath%20Karunanithi&fontSize=60&fontColor=D4AF37&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20and%20Computer%20Vision&descAlignY=55&descAlign=50" />
 </div>
 
 <h1 align="center">Hi there, I'm Vishwanath! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -8,8 +8,8 @@
 <h3 align="center">ECE Student | YUKTI Innovation 2025 Finalist | Hackathon Winner 🚀</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;IoT+%26+VLSI+Enthusiast;AI+%26+Computer+Vision+Developer;Hackathon+Winner&center=true&width=500&height=50&color=D4AF37&vCenter=true&size=22">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;IoT+and+VLSI+Enthusiast;AI+and+Computer+Vision+Developer;Hackathon+Winner&center=true&width=500&height=50&color=D4AF37&vCenter=true&size=22">
   </a>
 </p>
 
@@ -90,5 +90,5 @@
 
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/vishwanathkarunanithi/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=vishwanathkarunanithi&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
