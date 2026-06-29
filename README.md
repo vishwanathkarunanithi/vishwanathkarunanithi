@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently a 2nd-year **ECE Student** at Velammal Institute of Technology (8.34 CGPA).
+- 🔭 I’m currently a 4th-year **ECE Student** at Velammal Institute of Technology (8.34 CGPA).
 - 🌱 I’m deeply passionate about **Core ECE, VLSI, Embedded Systems, and AI/Computer Vision**.
 - 💼 Recently completed an **Embedded Engineer Internship** at OneYes InfoTech Solutions.
 - 🏆 **YUKTI Innovation 2025 Finalist** & Multiple Hackathon Winner.
